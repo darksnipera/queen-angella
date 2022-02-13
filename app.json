@@ -1,11 +1,11 @@
 {
-    "name": "Queen Angella",
-    "description": "Queen Angella - Whatsapp Bot",
-    "logo": "https://i.imgur.com/wvTMw09.jpg",
+    "name": "ITACHI BOT",
+    "description": "ITACHI SLAVE - Whatsapp Bot",
+    "logo": "https://2img.net/h/narutomania333.n.a.pic.centerblog.net/vipe2oro.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/zim-bot/queen-angella",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "website":   "https://wa.me/966568319347",
+    "success_url": "https://wa.me/966568319347",
     "stack": "container",
     "env": {
         "ZIM_CODE": {
@@ -181,7 +181,7 @@
         "GAN_IMAGE": {
             "description": " Type image link for Gan Style plugin.",
             "required": true,
-            "value": "https://i.imgur.com/wvTMw09.jpg"
+            "value": "https://2img.net/h/narutomania333.n.a.pic.centerblog.net/vipe2oro.jpg"
         },
         "NO_ONLINE": {
             "description": "Type true if you don't want to appear online.",
